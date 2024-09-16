@@ -1,2 +1,2 @@
-# behavior_cloning_pytorch
-A pytorch implementation of behavior cloning(with DAgger)
+# RL_cartpole_pytorch
+A pytorch implementation of RL of Gym_cartpole(under construction)
